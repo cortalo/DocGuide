@@ -1,9 +1,9 @@
 # 站点名称
 site_name: 'DocGuide'
 # 仓库链接
-repo_url: https://github.com/ZJDoc/DocGuide.git
+repo_url: https://github.com/cortalo/DocGuide.git
 # 作者
-site_author: 'zhujian'
+site_author: 'test'
 # 版权信息
 copyright: '2021, zhujian'
 # 源文件目录
